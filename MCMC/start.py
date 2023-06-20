@@ -1,5 +1,7 @@
 import sys
 import math
+# This file is help for this puzzle
+# https://www.codingame.com/contribute/view/61989ff8f8f5bfbdb15b37a97191a3a3e4fef
 
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
